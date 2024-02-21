@@ -1,13 +1,15 @@
-import Header from "./Header.jsx"
-import Footer from "./Footer.jsx"
-import Food from "./Food.jsx"
+import Button from "./Button/Button.jsx"
+import Button2 from "./Button2.jsx"
+import Card from "./Card/Card.jsx"
+
 
 function App() {
   return (
     <>
-      <Header></Header>
-      <Food></Food>
-      <Footer></Footer>
+      <Card />
+      <Button />
+      <Button2 />
+
     </>
   );
 }
