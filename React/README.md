@@ -19,3 +19,4 @@
     2. Modular (when each component and its styles are located in its own folder) - see Button folder;
     3. Inline (when styles are recorded into an object inside the component jsx file) - see Button2.jsx file;
 9. Props and propTypes - see Student.jsx file;
+10. Conditional Rendering - see UserGreeting.jsx file;
