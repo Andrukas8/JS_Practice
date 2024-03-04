@@ -20,3 +20,4 @@
     3. Inline (when styles are recorded into an object inside the component jsx file) - see Button2.jsx file;
 9. Props and propTypes - see Student.jsx file;
 10. Conditional Rendering - see UserGreeting.jsx file;
+11. Rendering Lists - see List.jsx file;
