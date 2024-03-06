@@ -1,9 +1,8 @@
-import MyComponent4 from "./MyComponent4.jsx";
+import StopWatch from "./StopWatch.jsx";
 
 function App() {
   return (
-    <MyComponent4 />
-
+    <StopWatch />
   );
 }
 
